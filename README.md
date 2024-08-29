@@ -1,5 +1,5 @@
 # LaTeX template example (with BCU Harvard style referencing capabilities)
-This template is the same one I used for my dissertation. But it can be used to construct any thesis or report for other modules as well.
+This template is the same one I used for my dissertation (with a few minor alterations). But it can be used to construct any thesis or report for other modules as well.
 
 The code can be loaded in Overleaf (available at: https://www.overleaf.com) - an online editor tool specifically for LaTeX. The free version is enough to handle most reports, but if the document is quite large (my final dissertation was over 200 pages long), it may be necessary to purchase Overleaf Premium. But try the free version first. You may want to add some browser extensions that pertain to spelling and grammar checking, and checking word counts. 
 
